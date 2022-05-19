@@ -1,8 +1,7 @@
 <div align=center>
 
 ### 최유정
-#### Choi You Jung
-
+<br/><br/>
 
 #### :mag_right: INSTRUCTION :mag_right:
 
