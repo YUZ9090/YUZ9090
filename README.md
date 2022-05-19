@@ -4,13 +4,13 @@
 ### Choi You Jung
 
 
-### :mag_right: INSTRUCTION
+#### :mag_right: INSTRUCTION :mag_right:
 
 
-### :computer: TECH STACK 
+#### :computer: TECH STACK :computer:
 
 
-### :floppy_disk: PROJECT
+#### :floppy_disk: PROJECT :floppy_disk:
 - Afit
     -  
 
