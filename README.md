@@ -1,8 +1,8 @@
 <div align=center>
 
 # 최유정
-### Choi You Jung
----
+#### Choi You Jung
+
 
  
  
