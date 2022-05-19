@@ -19,6 +19,7 @@ Techs that I've used at least once<br/><br/>
     
 ### :floppy_disk: PROJECT :floppy_disk:
 - Afit
+  
 |제목|내용|
 |------|---|
 |주요 업무 및 수행 역할| 내용|
