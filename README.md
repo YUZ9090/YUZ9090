@@ -8,7 +8,7 @@
 
 
 #### :computer: TECH STACK :computer:
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 #### :floppy_disk: PROJECT :floppy_disk:
 - Afit
