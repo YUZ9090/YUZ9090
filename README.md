@@ -1,13 +1,22 @@
 <div align=center>
 
 # 최유정
-#### Choi You Jung
+### Choi You Jung
 
 
- 
- 
- 
- 
+### :mag_right: INSTRUCTION
+
+
+### :computer: TECH STACK 
+
+
+### :floppy_disk: PROJECT
+- Afit
+    -  
+
+
+
+
   
 <!--
 **YUZ9090/YUZ9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
