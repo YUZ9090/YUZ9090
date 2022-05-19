@@ -1,6 +1,7 @@
 <div align=center>
 
-### Hi there 👋
+# 최유정
+<h3> Choi You Jung</h3>
 
 <!--
 **YUZ9090/YUZ9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
