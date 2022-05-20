@@ -4,7 +4,7 @@
 <br/><br/>
 
 ### :mag_right: INSTRUCTION :mag_right:
-    
+    열정 가득한 백엔드 개발자를 꿈꿉니다
 
 <br/><br/>
 ### :computer: TECH STACK :computer:
