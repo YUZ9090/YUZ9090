@@ -20,7 +20,8 @@ Techs that I've used at least once<br/><br/>
 ### :floppy_disk: PROJECT :floppy_disk:
 
 </div>
-- Afit
+
+#### Afit
 - **본인의 주요 업무 및 수행역할**
   - 프로젝트의 서버 구축을 담당
   - AWS 의 ec2 로 서버를 선택하고, os 는 ubuntu 를 사용하여 서버를구축- 유동적인 서버 ip 를 고정시키기 위해 Elastic IP 를 할당 받아서버와연동, MobaXterm으로 SSH 접속이 가능하도록 세팅
