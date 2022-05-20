@@ -1,7 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=최유정&fontSize=42)
+
 <div align=center>
 
-## 최유정
-<br/><br/>
 
 ### :mag_right: INSTRUCTION :mag_right:
     열정 가득한 백엔드 개발자를 꿈꿉니다
